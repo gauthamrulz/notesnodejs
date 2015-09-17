@@ -1,0 +1,1 @@
+Trying out a notes app using node.js and stuff :)
